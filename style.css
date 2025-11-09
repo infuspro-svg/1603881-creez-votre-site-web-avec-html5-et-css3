@@ -23,3 +23,24 @@ h1 {
 p {
   font-size: 1.1em;
 }
+.lienhaut{
+  background-color: white;
+  color:#1F2039; 
+ul{
+  font-size: 1.5em;
+  font-family: 'Manrope', sans-serif;
+  color: #F9F8FF;
+}
+h2{
+  color:#F9F8FF;
+}
+.lienbas{
+  background-color: white;
+  color:#1F2039;
+  
+}
+.portfolio{
+  background: linear-gradient(#8E86B5, #ACAEED);
+  font-family: 'Manrope', sans-serif;
+}
+  
