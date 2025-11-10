@@ -33,9 +33,17 @@ li {
 .entete,
 .pied-de-page {
   background-color: white;
+  border-radius:50px;
 }
 
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
+  border-radius:50px;
+  
+}
+liste{
+  border-right-width:1px;
+  border-bottom-width:1px;
+  color:#8e86b5;
 }
